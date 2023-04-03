@@ -4,7 +4,7 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ttlttk8161)](https://solved.ac/ttlttk8161)
 
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ttlttk8161&layout=compact&theme=radical)
 
 
 
